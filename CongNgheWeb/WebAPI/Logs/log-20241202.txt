@@ -1,0 +1,678 @@
+2024-12-02 09:09:54.595 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Login responded 204 in 1.3199 ms
+2024-12-02 09:09:56.736 +07:00 [INF] HTTP POST /api/NguoiDung/Login responded 200 in 2106.4513 ms
+2024-12-02 09:09:56.858 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.6319 ms
+2024-12-02 09:09:56.859 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0861 ms
+2024-12-02 09:09:56.859 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0868 ms
+2024-12-02 09:09:56.859 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0851 ms
+2024-12-02 09:09:56.859 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0483 ms
+2024-12-02 09:09:56.861 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0567 ms
+2024-12-02 09:09:56.862 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0630 ms
+2024-12-02 09:09:56.862 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0669 ms
+2024-12-02 09:09:56.863 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0722 ms
+2024-12-02 09:09:56.863 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0233 ms
+2024-12-02 09:09:56.863 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0207 ms
+2024-12-02 09:09:56.863 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0570 ms
+2024-12-02 09:09:56.911 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.911 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.911 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.911 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.911 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.911 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.978 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 102.4036 ms
+2024-12-02 09:09:56.982 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.987 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 122.5585 ms
+2024-12-02 09:09:56.988 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 122.1864 ms
+2024-12-02 09:09:56.988 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 117.5673 ms
+2024-12-02 09:09:56.989 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 115.8210 ms
+2024-12-02 09:09:56.989 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.991 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.991 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:56.993 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:57.002 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 132.8920 ms
+2024-12-02 09:09:57.005 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:09:57.067 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 63.2112 ms
+2024-12-02 09:09:57.067 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 78.2823 ms
+2024-12-02 09:09:57.067 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 85.4518 ms
+2024-12-02 09:09:57.082 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 90.9391 ms
+2024-12-02 09:09:57.083 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 92.5937 ms
+2024-12-02 09:09:57.083 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 91.3001 ms
+2024-12-02 09:12:04.995 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.1127 ms
+2024-12-02 09:12:04.995 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.1573 ms
+2024-12-02 09:12:04.995 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.1536 ms
+2024-12-02 09:12:04.996 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0353 ms
+2024-12-02 09:12:05.001 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:05.004 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:05.012 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 11.8660 ms
+2024-12-02 09:12:05.012 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.8278 ms
+2024-12-02 09:12:05.014 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:05.014 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:05.021 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.1551 ms
+2024-12-02 09:12:05.021 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 7.6658 ms
+2024-12-02 09:12:21.775 +07:00 [INF] HTTP GET /uploads/v2jf1zww.dgc.jpg responded 304 in 3.8497 ms
+2024-12-02 09:12:21.775 +07:00 [INF] HTTP GET /uploads/wqcuas5y.r3k.jpg responded 304 in 4.5490 ms
+2024-12-02 09:12:43.597 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.2062 ms
+2024-12-02 09:12:43.602 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:43.744 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 142.3487 ms
+2024-12-02 09:12:43.750 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0358 ms
+2024-12-02 09:12:43.754 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:43.757 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.3638 ms
+2024-12-02 09:12:51.710 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.1247 ms
+2024-12-02 09:12:51.715 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:51.723 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 8.3222 ms
+2024-12-02 09:12:51.752 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0368 ms
+2024-12-02 09:12:51.756 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:12:51.759 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.4724 ms
+2024-12-02 09:13:01.963 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0568 ms
+2024-12-02 09:13:01.965 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0429 ms
+2024-12-02 09:13:01.965 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0438 ms
+2024-12-02 09:13:01.965 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0425 ms
+2024-12-02 09:13:01.965 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0124 ms
+2024-12-02 09:13:01.966 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0350 ms
+2024-12-02 09:13:01.966 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0633 ms
+2024-12-02 09:13:01.967 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0287 ms
+2024-12-02 09:13:01.968 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:01.970 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:01.974 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:01.981 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:01.993 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 23.1313 ms
+2024-12-02 09:13:01.995 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 27.3305 ms
+2024-12-02 09:13:01.995 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:01.998 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:01.999 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 24.7857 ms
+2024-12-02 09:13:01.999 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 17.9415 ms
+2024-12-02 09:13:02.002 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:02.002 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:02.003 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.3746 ms
+2024-12-02 09:13:02.004 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 6.9600 ms
+2024-12-02 09:13:02.011 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.1868 ms
+2024-12-02 09:13:02.014 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 12.2227 ms
+2024-12-02 09:13:02.548 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:02.552 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 4.0403 ms
+2024-12-02 09:13:02.554 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:02.558 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 4.1791 ms
+2024-12-02 09:13:03.537 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0348 ms
+2024-12-02 09:13:03.537 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0602 ms
+2024-12-02 09:13:03.541 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.545 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 3.5966 ms
+2024-12-02 09:13:03.546 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.550 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 4.0501 ms
+2024-12-02 09:13:03.945 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.945 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.945 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.945 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.948 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 3.5043 ms
+2024-12-02 09:13:03.950 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.4499 ms
+2024-12-02 09:13:03.950 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.951 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 6.7708 ms
+2024-12-02 09:13:03.952 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.952 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 7.7088 ms
+2024-12-02 09:13:03.953 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.954 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:03.959 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 9.6399 ms
+2024-12-02 09:13:03.963 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.0142 ms
+2024-12-02 09:13:03.966 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 13.6961 ms
+2024-12-02 09:13:03.968 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 13.3859 ms
+2024-12-02 09:13:06.006 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.009 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 4.0625 ms
+2024-12-02 09:13:06.011 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.016 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.0306 ms
+2024-12-02 09:13:06.630 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0413 ms
+2024-12-02 09:13:06.630 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0415 ms
+2024-12-02 09:13:06.631 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.631 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.631 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.631 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.631 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.634 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.640 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.2386 ms
+2024-12-02 09:13:06.640 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 9.3118 ms
+2024-12-02 09:13:06.641 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 9.9629 ms
+2024-12-02 09:13:06.641 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.641 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.642 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.642 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.4632 ms
+2024-12-02 09:13:06.643 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.644 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 13.5572 ms
+2024-12-02 09:13:06.646 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 12.3143 ms
+2024-12-02 09:13:06.647 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.648 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:06.653 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.9337 ms
+2024-12-02 09:13:06.654 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 12.7080 ms
+2024-12-02 09:13:06.655 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 13.0599 ms
+2024-12-02 09:13:06.659 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 15.6486 ms
+2024-12-02 09:13:06.664 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 17.7875 ms
+2024-12-02 09:13:06.666 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 18.4515 ms
+2024-12-02 09:13:38.039 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0574 ms
+2024-12-02 09:13:38.040 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0366 ms
+2024-12-02 09:13:38.040 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0097 ms
+2024-12-02 09:13:38.040 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0154 ms
+2024-12-02 09:13:38.045 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.046 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.052 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.7507 ms
+2024-12-02 09:13:38.053 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.9141 ms
+2024-12-02 09:13:38.053 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.054 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.059 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.3805 ms
+2024-12-02 09:13:38.059 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.4923 ms
+2024-12-02 09:13:38.458 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0257 ms
+2024-12-02 09:13:38.460 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0274 ms
+2024-12-02 09:13:38.460 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0234 ms
+2024-12-02 09:13:38.460 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0080 ms
+2024-12-02 09:13:38.460 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0110 ms
+2024-12-02 09:13:38.460 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0077 ms
+2024-12-02 09:13:38.461 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.463 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.465 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.467 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.497 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 35.9723 ms
+2024-12-02 09:13:38.498 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 35.2941 ms
+2024-12-02 09:13:38.498 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 33.1477 ms
+2024-12-02 09:13:38.499 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.500 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.500 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.500 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 33.3285 ms
+2024-12-02 09:13:38.502 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.510 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.7606 ms
+2024-12-02 09:13:38.511 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 11.4784 ms
+2024-12-02 09:13:38.513 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 13.3788 ms
+2024-12-02 09:13:38.517 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 15.2609 ms
+2024-12-02 09:13:38.819 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.822 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 2.9884 ms
+2024-12-02 09:13:38.823 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:38.826 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 3.6783 ms
+2024-12-02 09:13:39.232 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.235 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.2659 ms
+2024-12-02 09:13:39.237 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.241 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 4.1706 ms
+2024-12-02 09:13:39.653 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.653 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.653 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.653 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.656 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.1167 ms
+2024-12-02 09:13:39.658 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.658 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.0567 ms
+2024-12-02 09:13:39.659 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 6.4021 ms
+2024-12-02 09:13:39.660 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.661 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 7.6600 ms
+2024-12-02 09:13:39.661 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.662 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:39.665 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 7.3003 ms
+2024-12-02 09:13:39.670 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.8107 ms
+2024-12-02 09:13:39.674 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.6310 ms
+2024-12-02 09:13:39.675 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 12.6558 ms
+2024-12-02 09:13:40.016 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.016 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.018 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 2.9281 ms
+2024-12-02 09:13:40.020 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.020 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 4.3964 ms
+2024-12-02 09:13:40.021 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.024 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.8672 ms
+2024-12-02 09:13:40.027 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.1840 ms
+2024-12-02 09:13:40.426 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0241 ms
+2024-12-02 09:13:40.426 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0242 ms
+2024-12-02 09:13:40.426 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.426 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.426 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.426 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.426 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.430 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.434 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 7.6435 ms
+2024-12-02 09:13:40.435 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.9908 ms
+2024-12-02 09:13:40.436 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.437 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.5630 ms
+2024-12-02 09:13:40.437 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.438 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.439 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.4087 ms
+2024-12-02 09:13:40.440 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 13.6689 ms
+2024-12-02 09:13:40.440 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.442 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.442 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 11.6758 ms
+2024-12-02 09:13:40.444 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:40.447 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 11.3722 ms
+2024-12-02 09:13:40.450 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.6598 ms
+2024-12-02 09:13:40.451 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 13.2121 ms
+2024-12-02 09:13:40.457 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 17.3352 ms
+2024-12-02 09:13:40.458 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 16.7778 ms
+2024-12-02 09:13:40.462 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 17.9237 ms
+2024-12-02 09:13:53.667 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0278 ms
+2024-12-02 09:13:53.668 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0207 ms
+2024-12-02 09:13:53.668 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0197 ms
+2024-12-02 09:13:53.668 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0206 ms
+2024-12-02 09:13:53.671 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:53.673 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:53.679 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.3157 ms
+2024-12-02 09:13:53.680 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.9831 ms
+2024-12-02 09:13:53.680 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:53.681 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:53.685 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.0175 ms
+2024-12-02 09:13:53.686 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.2585 ms
+2024-12-02 09:13:56.875 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0206 ms
+2024-12-02 09:13:56.876 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0234 ms
+2024-12-02 09:13:56.876 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0243 ms
+2024-12-02 09:13:56.876 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0244 ms
+2024-12-02 09:13:56.877 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0066 ms
+2024-12-02 09:13:56.877 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0138 ms
+2024-12-02 09:13:56.877 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.879 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.882 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.884 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.891 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.7761 ms
+2024-12-02 09:13:56.892 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.3555 ms
+2024-12-02 09:13:56.892 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.893 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.9502 ms
+2024-12-02 09:13:56.893 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.894 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.2089 ms
+2024-12-02 09:13:56.894 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.896 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:56.900 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.1644 ms
+2024-12-02 09:13:56.903 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 10.2528 ms
+2024-12-02 09:13:56.906 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.9169 ms
+2024-12-02 09:13:56.907 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 11.2318 ms
+2024-12-02 09:13:58.887 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0324 ms
+2024-12-02 09:13:58.888 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0277 ms
+2024-12-02 09:13:58.888 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0277 ms
+2024-12-02 09:13:58.888 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0381 ms
+2024-12-02 09:13:58.891 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:58.896 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:58.902 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.7980 ms
+2024-12-02 09:13:58.903 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 7.0495 ms
+2024-12-02 09:13:58.905 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:58.905 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:13:58.911 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 6.5668 ms
+2024-12-02 09:13:58.912 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 7.4441 ms
+2024-12-02 09:14:05.332 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0243 ms
+2024-12-02 09:14:05.337 +07:00 [INF] Token validated successfully for user null
+2024-12-02 09:14:05.339 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 2.5134 ms
+2024-12-02 10:12:46.492 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Login responded 204 in 1.3310 ms
+2024-12-02 10:12:48.475 +07:00 [INF] HTTP POST /api/NguoiDung/Login responded 200 in 1952.4195 ms
+2024-12-02 10:12:48.564 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.4789 ms
+2024-12-02 10:12:48.566 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0658 ms
+2024-12-02 10:12:48.566 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0405 ms
+2024-12-02 10:12:48.566 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0262 ms
+2024-12-02 10:12:48.567 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0270 ms
+2024-12-02 10:12:48.567 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0554 ms
+2024-12-02 10:12:48.567 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0521 ms
+2024-12-02 10:12:48.568 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0579 ms
+2024-12-02 10:12:48.568 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0263 ms
+2024-12-02 10:12:48.568 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0304 ms
+2024-12-02 10:12:48.568 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0451 ms
+2024-12-02 10:12:48.568 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0515 ms
+2024-12-02 10:12:48.609 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.609 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.609 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.609 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.609 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.609 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.651 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 74.6707 ms
+2024-12-02 10:12:48.653 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.654 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 76.1940 ms
+2024-12-02 10:12:48.654 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 74.4335 ms
+2024-12-02 10:12:48.657 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.657 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.658 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 84.7074 ms
+2024-12-02 10:12:48.660 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.664 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 94.5934 ms
+2024-12-02 10:12:48.666 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.672 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 100.4127 ms
+2024-12-02 10:12:48.674 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:12:48.696 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 39.9488 ms
+2024-12-02 10:12:48.696 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 22.7826 ms
+2024-12-02 10:12:48.696 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 39.9503 ms
+2024-12-02 10:12:48.701 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 35.7442 ms
+2024-12-02 10:12:48.701 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 48.7222 ms
+2024-12-02 10:12:48.701 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 41.0457 ms
+2024-12-02 10:13:10.303 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.1974 ms
+2024-12-02 10:13:10.303 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0451 ms
+2024-12-02 10:13:10.303 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0403 ms
+2024-12-02 10:13:10.304 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0220 ms
+2024-12-02 10:13:10.308 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:10.311 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:10.320 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 9.0170 ms
+2024-12-02 10:13:10.320 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 12.2899 ms
+2024-12-02 10:13:10.322 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:10.322 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:10.328 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.2709 ms
+2024-12-02 10:13:10.329 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.7740 ms
+2024-12-02 10:13:14.904 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.2487 ms
+2024-12-02 10:13:14.908 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:15.037 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 129.4604 ms
+2024-12-02 10:13:15.044 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:15.048 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 4.4204 ms
+2024-12-02 10:13:17.134 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0538 ms
+2024-12-02 10:13:17.136 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0483 ms
+2024-12-02 10:13:17.136 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0469 ms
+2024-12-02 10:13:17.136 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0480 ms
+2024-12-02 10:13:17.136 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0485 ms
+2024-12-02 10:13:17.147 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.137 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0429 ms
+2024-12-02 10:13:17.137 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0298 ms
+2024-12-02 10:13:17.137 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0230 ms
+2024-12-02 10:13:17.137 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0385 ms
+2024-12-02 10:13:17.138 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0385 ms
+2024-12-02 10:13:17.138 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0343 ms
+2024-12-02 10:13:17.139 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0325 ms
+2024-12-02 10:13:17.140 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.142 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.145 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.149 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.152 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.152 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 5.7074 ms
+2024-12-02 10:13:17.158 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.167 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 27.5754 ms
+2024-12-02 10:13:17.167 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 25.4704 ms
+2024-12-02 10:13:17.167 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 23.0844 ms
+2024-12-02 10:13:17.168 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 19.5465 ms
+2024-12-02 10:13:17.169 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.170 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.171 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.171 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.172 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 20.0525 ms
+2024-12-02 10:13:17.173 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:13:17.173 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 15.8060 ms
+2024-12-02 10:13:17.183 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 14.0230 ms
+2024-12-02 10:13:17.184 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 14.5782 ms
+2024-12-02 10:13:17.185 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 15.1494 ms
+2024-12-02 10:13:17.187 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 16.0190 ms
+2024-12-02 10:13:17.190 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 17.3662 ms
+2024-12-02 10:20:08.382 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0562 ms
+2024-12-02 10:20:08.382 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0443 ms
+2024-12-02 10:20:08.382 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0201 ms
+2024-12-02 10:20:08.382 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0105 ms
+2024-12-02 10:20:08.386 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:08.388 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:08.400 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 13.6499 ms
+2024-12-02 10:20:08.401 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:08.402 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.4397 ms
+2024-12-02 10:20:08.403 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:08.404 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 3.3035 ms
+2024-12-02 10:20:08.408 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 4.6987 ms
+2024-12-02 10:20:35.716 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Login responded 204 in 0.0420 ms
+2024-12-02 10:20:35.726 +07:00 [INF] HTTP POST /api/NguoiDung/Login responded 200 in 4.9153 ms
+2024-12-02 10:20:35.794 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0274 ms
+2024-12-02 10:20:35.795 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0234 ms
+2024-12-02 10:20:35.796 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0330 ms
+2024-12-02 10:20:35.796 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0216 ms
+2024-12-02 10:20:35.796 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0391 ms
+2024-12-02 10:20:35.797 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0358 ms
+2024-12-02 10:20:35.797 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0252 ms
+2024-12-02 10:20:35.798 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0241 ms
+2024-12-02 10:20:35.798 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0371 ms
+2024-12-02 10:20:35.798 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0070 ms
+2024-12-02 10:20:35.798 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0065 ms
+2024-12-02 10:20:35.798 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0068 ms
+2024-12-02 10:20:35.799 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.802 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.803 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.805 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.806 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.808 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.823 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 23.7159 ms
+2024-12-02 10:20:35.825 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.826 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 24.3544 ms
+2024-12-02 10:20:35.827 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 23.9641 ms
+2024-12-02 10:20:35.828 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.828 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.829 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 24.2895 ms
+2024-12-02 10:20:35.829 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 22.7926 ms
+2024-12-02 10:20:35.831 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.831 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.831 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 22.5943 ms
+2024-12-02 10:20:35.832 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:35.834 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.4968 ms
+2024-12-02 10:20:35.839 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.9556 ms
+2024-12-02 10:20:35.841 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 12.8848 ms
+2024-12-02 10:20:35.847 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 16.4472 ms
+2024-12-02 10:20:35.848 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 17.5492 ms
+2024-12-02 10:20:35.851 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 19.2078 ms
+2024-12-02 10:20:38.727 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:38.726 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:38.730 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 3.8038 ms
+2024-12-02 10:20:38.731 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 4.9394 ms
+2024-12-02 10:20:38.732 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:38.733 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:38.738 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.2447 ms
+2024-12-02 10:20:38.739 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 6.6631 ms
+2024-12-02 10:20:45.951 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0235 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0241 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0243 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0242 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0149 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0086 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0064 ms
+2024-12-02 10:20:45.952 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0067 ms
+2024-12-02 10:20:45.956 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.958 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.960 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.962 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.972 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 16.8290 ms
+2024-12-02 10:20:45.973 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 15.0192 ms
+2024-12-02 10:20:45.974 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.974 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.975 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.9786 ms
+2024-12-02 10:20:45.976 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.977 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 14.6897 ms
+2024-12-02 10:20:45.978 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:45.980 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 6.2583 ms
+2024-12-02 10:20:45.981 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 7.1835 ms
+2024-12-02 10:20:45.985 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 9.0755 ms
+2024-12-02 10:20:45.988 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.0834 ms
+2024-12-02 10:20:47.872 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:47.876 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 4.0078 ms
+2024-12-02 10:20:47.878 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:47.881 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.5233 ms
+2024-12-02 10:20:54.634 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0257 ms
+2024-12-02 10:20:54.634 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0402 ms
+2024-12-02 10:20:54.639 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:54.643 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 4.3715 ms
+2024-12-02 10:20:54.644 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:54.647 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 2.8555 ms
+2024-12-02 10:20:57.701 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0248 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0251 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0250 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0251 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0252 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0062 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0104 ms
+2024-12-02 10:20:57.703 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0063 ms
+2024-12-02 10:20:57.705 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.708 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.710 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.712 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.723 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.722 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 16.6713 ms
+2024-12-02 10:20:57.722 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 14.1333 ms
+2024-12-02 10:20:57.723 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.724 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.5300 ms
+2024-12-02 10:20:57.726 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 13.4673 ms
+2024-12-02 10:20:57.726 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.726 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 3.1464 ms
+2024-12-02 10:20:57.727 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:20:57.731 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 8.1350 ms
+2024-12-02 10:20:57.736 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.4152 ms
+2024-12-02 10:20:57.739 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.4416 ms
+2024-12-02 10:21:04.662 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0297 ms
+2024-12-02 10:21:04.663 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0232 ms
+2024-12-02 10:21:04.663 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0265 ms
+2024-12-02 10:21:04.663 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0233 ms
+2024-12-02 10:21:04.668 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:04.671 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:04.678 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.9841 ms
+2024-12-02 10:21:04.679 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 7.7872 ms
+2024-12-02 10:21:04.680 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:04.681 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:04.686 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 6.2541 ms
+2024-12-02 10:21:04.688 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 7.0664 ms
+2024-12-02 10:21:05.556 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0251 ms
+2024-12-02 10:21:05.557 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0359 ms
+2024-12-02 10:21:05.557 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0358 ms
+2024-12-02 10:21:05.557 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0358 ms
+2024-12-02 10:21:05.557 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0105 ms
+2024-12-02 10:21:05.557 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0106 ms
+2024-12-02 10:21:05.558 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.560 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.563 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.568 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.572 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.8222 ms
+2024-12-02 10:21:05.574 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.574 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 13.8731 ms
+2024-12-02 10:21:05.575 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.8552 ms
+2024-12-02 10:21:05.575 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.576 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.576 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 8.8924 ms
+2024-12-02 10:21:05.578 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:05.580 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 6.2211 ms
+2024-12-02 10:21:05.585 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.3342 ms
+2024-12-02 10:21:05.587 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.4507 ms
+2024-12-02 10:21:05.589 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.0513 ms
+2024-12-02 10:21:10.790 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0224 ms
+2024-12-02 10:21:10.790 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0150 ms
+2024-12-02 10:21:10.794 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:10.798 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.4825 ms
+2024-12-02 10:21:10.799 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:10.802 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.1705 ms
+2024-12-02 10:21:35.222 +07:00 [INF] HTTP OPTIONS /api/Phong/Update responded 204 in 0.0423 ms
+2024-12-02 10:21:35.227 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:35.254 +07:00 [INF] HTTP PUT /api/Phong/Update responded 200 in 27.7728 ms
+2024-12-02 10:21:35.259 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0212 ms
+2024-12-02 10:21:35.263 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:35.265 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 2.4524 ms
+2024-12-02 10:21:38.889 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0218 ms
+2024-12-02 10:21:38.891 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0285 ms
+2024-12-02 10:21:38.891 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0294 ms
+2024-12-02 10:21:38.891 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0284 ms
+2024-12-02 10:21:38.892 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0275 ms
+2024-12-02 10:21:38.892 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0156 ms
+2024-12-02 10:21:38.892 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.894 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.898 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.900 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.904 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 12.1254 ms
+2024-12-02 10:21:38.906 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.907 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.5111 ms
+2024-12-02 10:21:38.908 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.908 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.2721 ms
+2024-12-02 10:21:38.909 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.0217 ms
+2024-12-02 10:21:38.909 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.910 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:38.911 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 5.6005 ms
+2024-12-02 10:21:38.915 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 6.7846 ms
+2024-12-02 10:21:38.920 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.3615 ms
+2024-12-02 10:21:38.921 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.9886 ms
+2024-12-02 10:21:50.420 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0251 ms
+2024-12-02 10:21:50.420 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0188 ms
+2024-12-02 10:21:50.420 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0189 ms
+2024-12-02 10:21:50.420 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0188 ms
+2024-12-02 10:21:50.423 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:50.425 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:50.431 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.2226 ms
+2024-12-02 10:21:50.432 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.6083 ms
+2024-12-02 10:21:50.433 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:50.433 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:50.438 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.3061 ms
+2024-12-02 10:21:50.439 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.4475 ms
+2024-12-02 10:21:52.617 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0209 ms
+2024-12-02 10:21:52.618 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0251 ms
+2024-12-02 10:21:52.618 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0262 ms
+2024-12-02 10:21:52.618 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0262 ms
+2024-12-02 10:21:52.618 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0068 ms
+2024-12-02 10:21:52.618 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0128 ms
+2024-12-02 10:21:52.619 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.622 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.624 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.626 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.635 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 16.1983 ms
+2024-12-02 10:21:52.636 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 14.4894 ms
+2024-12-02 10:21:52.636 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.637 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 13.2970 ms
+2024-12-02 10:21:52.637 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.638 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.639 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 12.3348 ms
+2024-12-02 10:21:52.640 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:21:52.643 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.1707 ms
+2024-12-02 10:21:52.646 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 9.1708 ms
+2024-12-02 10:21:52.647 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.1276 ms
+2024-12-02 10:21:52.651 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.0893 ms
+2024-12-02 10:22:01.955 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0217 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0242 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0244 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0242 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0244 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0063 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0067 ms
+2024-12-02 10:22:01.956 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0059 ms
+2024-12-02 10:22:01.959 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.961 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.963 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.965 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.975 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 16.5714 ms
+2024-12-02 10:22:01.976 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 14.8195 ms
+2024-12-02 10:22:01.977 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 14.0547 ms
+2024-12-02 10:22:01.977 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.977 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.978 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.978 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.3042 ms
+2024-12-02 10:22:01.979 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:01.984 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 7.3879 ms
+2024-12-02 10:22:01.985 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 8.1890 ms
+2024-12-02 10:22:01.986 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 8.2372 ms
+2024-12-02 10:22:01.990 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.5122 ms
+2024-12-02 10:22:10.986 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0221 ms
+2024-12-02 10:22:10.987 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0229 ms
+2024-12-02 10:22:10.987 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0228 ms
+2024-12-02 10:22:10.987 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0232 ms
+2024-12-02 10:22:10.987 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0233 ms
+2024-12-02 10:22:10.988 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0068 ms
+2024-12-02 10:22:10.988 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0063 ms
+2024-12-02 10:22:10.988 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0065 ms
+2024-12-02 10:22:10.991 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:10.993 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:10.998 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:10.999 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:11.006 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 15.7176 ms
+2024-12-02 10:22:11.007 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:11.007 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.3612 ms
+2024-12-02 10:22:11.008 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.9048 ms
+2024-12-02 10:22:11.008 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:11.010 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:11.010 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.7932 ms
+2024-12-02 10:22:11.011 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:11.013 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 5.8602 ms
+2024-12-02 10:22:11.018 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 9.8790 ms
+2024-12-02 10:22:11.019 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 9.5923 ms
+2024-12-02 10:22:11.023 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 11.4590 ms
+2024-12-02 10:22:29.634 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0297 ms
+2024-12-02 10:22:29.635 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0269 ms
+2024-12-02 10:22:29.635 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0267 ms
+2024-12-02 10:22:29.635 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0165 ms
+2024-12-02 10:22:29.635 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0165 ms
+2024-12-02 10:22:29.636 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0071 ms
+2024-12-02 10:22:29.636 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0079 ms
+2024-12-02 10:22:29.636 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0085 ms
+2024-12-02 10:22:29.638 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.644 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.648 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.650 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.658 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 19.8085 ms
+2024-12-02 10:22:29.659 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.659 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 15.5951 ms
+2024-12-02 10:22:29.660 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.660 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.3166 ms
+2024-12-02 10:22:29.661 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.662 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.7710 ms
+2024-12-02 10:22:29.663 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:29.667 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 8.6194 ms
+2024-12-02 10:22:29.671 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.4644 ms
+2024-12-02 10:22:29.675 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 13.7034 ms
+2024-12-02 10:22:29.680 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 16.6168 ms
+2024-12-02 10:22:37.099 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0195 ms
+2024-12-02 10:22:37.099 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0244 ms
+2024-12-02 10:22:37.099 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0206 ms
+2024-12-02 10:22:37.099 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0245 ms
+2024-12-02 10:22:37.103 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:37.106 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:37.112 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 9.2161 ms
+2024-12-02 10:22:37.113 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 7.6226 ms
+2024-12-02 10:22:37.114 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:37.115 +07:00 [INF] Token validated successfully for user null
+2024-12-02 10:22:37.119 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.0861 ms
+2024-12-02 10:22:37.120 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.1353 ms

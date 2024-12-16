@@ -1,0 +1,736 @@
+2024-12-04 10:03:38.963 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Login responded 204 in 1.5446 ms
+2024-12-04 10:03:41.172 +07:00 [INF] HTTP POST /api/NguoiDung/Login responded 401 in 2173.4448 ms
+2024-12-04 10:03:57.564 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Login responded 204 in 0.4432 ms
+2024-12-04 10:03:57.660 +07:00 [INF] HTTP POST /api/NguoiDung/Login responded 200 in 90.1661 ms
+2024-12-04 10:03:57.744 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0814 ms
+2024-12-04 10:03:57.746 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0539 ms
+2024-12-04 10:03:57.746 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0546 ms
+2024-12-04 10:03:57.746 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0553 ms
+2024-12-04 10:03:57.746 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0485 ms
+2024-12-04 10:03:57.747 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0504 ms
+2024-12-04 10:03:57.748 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0702 ms
+2024-12-04 10:03:57.748 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0700 ms
+2024-12-04 10:03:57.748 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0564 ms
+2024-12-04 10:03:57.749 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0492 ms
+2024-12-04 10:03:57.749 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0572 ms
+2024-12-04 10:03:57.749 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0561 ms
+2024-12-04 10:03:57.792 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.792 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.792 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.792 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.792 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.792 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.868 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 108.2051 ms
+2024-12-04 10:03:57.871 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.873 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 115.6744 ms
+2024-12-04 10:03:57.876 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.877 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 6.7569 ms
+2024-12-04 10:03:57.879 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 128.8913 ms
+2024-12-04 10:03:57.880 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 126.6246 ms
+2024-12-04 10:03:57.880 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 128.0688 ms
+2024-12-04 10:03:57.880 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 5.0302 ms
+2024-12-04 10:03:57.881 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.883 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.883 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.890 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 134.4186 ms
+2024-12-04 10:03:57.893 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:57.894 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 13.3583 ms
+2024-12-04 10:03:57.895 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.4170 ms
+2024-12-04 10:03:57.897 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 13.8850 ms
+2024-12-04 10:03:57.901 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 9.5743 ms
+2024-12-04 10:03:59.954 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:59.954 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:59.959 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.4744 ms
+2024-12-04 10:03:59.961 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 6.7057 ms
+2024-12-04 10:03:59.961 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:59.962 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:03:59.967 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.4842 ms
+2024-12-04 10:03:59.968 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 6.3277 ms
+2024-12-04 10:04:18.713 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.2367 ms
+2024-12-04 10:04:18.718 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:04:18.868 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 150.9161 ms
+2024-12-04 10:04:18.874 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0423 ms
+2024-12-04 10:04:18.878 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:04:18.881 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.3180 ms
+2024-12-04 10:05:21.344 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0163 ms
+2024-12-04 10:05:21.344 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.1049 ms
+2024-12-04 10:05:21.347 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:21.349 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:21.352 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 5.1593 ms
+2024-12-04 10:05:21.353 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 4.2118 ms
+2024-12-04 10:05:43.362 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0464 ms
+2024-12-04 10:05:43.367 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:43.379 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 12.5540 ms
+2024-12-04 10:05:43.401 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0378 ms
+2024-12-04 10:05:43.406 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:43.410 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.8744 ms
+2024-12-04 10:05:50.305 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0405 ms
+2024-12-04 10:05:50.310 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:50.318 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 9.0558 ms
+2024-12-04 10:05:50.337 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0330 ms
+2024-12-04 10:05:50.341 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:50.344 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.5052 ms
+2024-12-04 10:05:57.921 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0409 ms
+2024-12-04 10:05:57.926 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:57.931 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 5.3099 ms
+2024-12-04 10:05:57.959 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0386 ms
+2024-12-04 10:05:57.964 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:05:57.966 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 2.9054 ms
+2024-12-04 10:06:05.553 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0341 ms
+2024-12-04 10:06:05.557 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:05.563 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 6.2601 ms
+2024-12-04 10:06:05.589 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0325 ms
+2024-12-04 10:06:05.593 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:05.596 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.8320 ms
+2024-12-04 10:06:22.986 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0428 ms
+2024-12-04 10:06:22.988 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0428 ms
+2024-12-04 10:06:22.988 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0445 ms
+2024-12-04 10:06:22.988 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0105 ms
+2024-12-04 10:06:22.988 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0497 ms
+2024-12-04 10:06:22.989 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0623 ms
+2024-12-04 10:06:22.989 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0250 ms
+2024-12-04 10:06:22.989 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0239 ms
+2024-12-04 10:06:22.991 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:22.994 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:22.996 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:22.998 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:23.009 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 17.8368 ms
+2024-12-04 10:06:23.010 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 16.2120 ms
+2024-12-04 10:06:23.010 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 12.1008 ms
+2024-12-04 10:06:23.011 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:23.011 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 15.5542 ms
+2024-12-04 10:06:23.012 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:23.012 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:23.013 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:23.018 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 7.7253 ms
+2024-12-04 10:06:23.021 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.8040 ms
+2024-12-04 10:06:23.022 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.0038 ms
+2024-12-04 10:06:23.024 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.4369 ms
+2024-12-04 10:06:37.354 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0714 ms
+2024-12-04 10:06:37.359 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:37.366 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 7.1418 ms
+2024-12-04 10:06:37.374 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Create responded 204 in 0.0244 ms
+2024-12-04 10:06:37.376 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:37.455 +07:00 [INF] HTTP POST /api/PhanBoTaiSan/Create responded 201 in 78.4057 ms
+2024-12-04 10:06:37.459 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0204 ms
+2024-12-04 10:06:37.463 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:37.466 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 2.6952 ms
+2024-12-04 10:06:37.471 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0370 ms
+2024-12-04 10:06:37.474 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:06:37.477 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.0296 ms
+2024-12-04 10:07:17.192 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0236 ms
+2024-12-04 10:07:17.197 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:17.206 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 8.9618 ms
+2024-12-04 10:07:17.216 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Create responded 204 in 0.0214 ms
+2024-12-04 10:07:17.220 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:17.227 +07:00 [INF] HTTP POST /api/PhanBoTaiSan/Create responded 201 in 7.6329 ms
+2024-12-04 10:07:17.231 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0183 ms
+2024-12-04 10:07:17.234 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:17.237 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 3.0176 ms
+2024-12-04 10:07:17.242 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0213 ms
+2024-12-04 10:07:17.245 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:17.248 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 3.5740 ms
+2024-12-04 10:07:26.316 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0279 ms
+2024-12-04 10:07:26.317 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0207 ms
+2024-12-04 10:07:26.317 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0208 ms
+2024-12-04 10:07:26.317 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0208 ms
+2024-12-04 10:07:26.317 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0119 ms
+2024-12-04 10:07:26.318 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0416 ms
+2024-12-04 10:07:26.318 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0098 ms
+2024-12-04 10:07:26.318 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0290 ms
+2024-12-04 10:07:26.321 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.323 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.325 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.328 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.339 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 16.2086 ms
+2024-12-04 10:07:26.339 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 18.0311 ms
+2024-12-04 10:07:26.340 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 14.7745 ms
+2024-12-04 10:07:26.340 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.341 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.5586 ms
+2024-12-04 10:07:26.341 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.341 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.342 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:07:26.348 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 8.4119 ms
+2024-12-04 10:07:26.352 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.4052 ms
+2024-12-04 10:07:26.353 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 11.8921 ms
+2024-12-04 10:07:26.354 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 12.2516 ms
+2024-12-04 10:10:34.024 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0239 ms
+2024-12-04 10:10:34.024 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0239 ms
+2024-12-04 10:10:34.029 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:34.033 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 4.6834 ms
+2024-12-04 10:10:34.034 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:34.037 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 3.2589 ms
+2024-12-04 10:10:34.522 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0372 ms
+2024-12-04 10:10:34.523 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0361 ms
+2024-12-04 10:10:34.524 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0382 ms
+2024-12-04 10:10:34.524 +07:00 [INF] HTTP OPTIONS /api/LoaiTaiSan/GetAll responded 204 in 0.0523 ms
+2024-12-04 10:10:34.528 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:34.530 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:34.539 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.2845 ms
+2024-12-04 10:10:34.540 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 11.0362 ms
+2024-12-04 10:10:34.541 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:34.542 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:34.548 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.2689 ms
+2024-12-04 10:10:34.549 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 6.6539 ms
+2024-12-04 10:10:35.104 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.108 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 3.2050 ms
+2024-12-04 10:10:35.109 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.113 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 4.0287 ms
+2024-12-04 10:10:35.928 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0203 ms
+2024-12-04 10:10:35.929 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0160 ms
+2024-12-04 10:10:35.929 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0162 ms
+2024-12-04 10:10:35.929 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0165 ms
+2024-12-04 10:10:35.930 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0081 ms
+2024-12-04 10:10:35.930 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0202 ms
+2024-12-04 10:10:35.930 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.933 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.935 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.937 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.943 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.2389 ms
+2024-12-04 10:10:35.945 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.945 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 12.9300 ms
+2024-12-04 10:10:35.946 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 10.9384 ms
+2024-12-04 10:10:35.946 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.948 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.948 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.2179 ms
+2024-12-04 10:10:35.951 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:35.952 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.2457 ms
+2024-12-04 10:10:35.957 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.7274 ms
+2024-12-04 10:10:35.958 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 10.2070 ms
+2024-12-04 10:10:35.961 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.8275 ms
+2024-12-04 10:10:36.676 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:36.679 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 2.8697 ms
+2024-12-04 10:10:36.680 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:36.687 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 6.7350 ms
+2024-12-04 10:10:37.234 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:37.234 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:37.237 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 2.8954 ms
+2024-12-04 10:10:37.239 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:37.239 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.1600 ms
+2024-12-04 10:10:37.241 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:37.243 +07:00 [INF] HTTP GET /api/LoaiTaiSan/GetAll responded 200 in 4.2711 ms
+2024-12-04 10:10:37.246 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 5.3050 ms
+2024-12-04 10:10:38.261 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:38.264 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 2.7296 ms
+2024-12-04 10:10:38.265 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:10:38.268 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 3.4234 ms
+2024-12-04 10:11:25.859 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Update responded 204 in 0.0245 ms
+2024-12-04 10:11:25.863 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:25.884 +07:00 [INF] HTTP PUT /api/NguoiDung/Update responded 200 in 20.2110 ms
+2024-12-04 10:11:25.889 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/GetAll responded 204 in 0.0197 ms
+2024-12-04 10:11:25.893 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:25.897 +07:00 [INF] HTTP GET /api/NguoiDung/GetAll responded 200 in 3.4057 ms
+2024-12-04 10:11:33.483 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0229 ms
+2024-12-04 10:11:33.485 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0217 ms
+2024-12-04 10:11:33.485 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0217 ms
+2024-12-04 10:11:33.485 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0156 ms
+2024-12-04 10:11:33.485 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0092 ms
+2024-12-04 10:11:33.485 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0194 ms
+2024-12-04 10:11:33.486 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0073 ms
+2024-12-04 10:11:33.486 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0150 ms
+2024-12-04 10:11:33.488 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.490 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.492 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.495 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.504 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 16.1306 ms
+2024-12-04 10:11:33.505 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.506 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 15.4469 ms
+2024-12-04 10:11:33.507 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 14.7237 ms
+2024-12-04 10:11:33.507 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.508 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.508 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 13.4737 ms
+2024-12-04 10:11:33.509 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:33.512 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 6.8738 ms
+2024-12-04 10:11:33.517 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 9.7120 ms
+2024-12-04 10:11:33.518 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 10.1476 ms
+2024-12-04 10:11:33.521 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.4406 ms
+2024-12-04 10:11:42.440 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0225 ms
+2024-12-04 10:11:42.441 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0232 ms
+2024-12-04 10:11:42.441 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0231 ms
+2024-12-04 10:11:42.441 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0230 ms
+2024-12-04 10:11:42.441 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0230 ms
+2024-12-04 10:11:42.442 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0066 ms
+2024-12-04 10:11:42.442 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0061 ms
+2024-12-04 10:11:42.442 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0089 ms
+2024-12-04 10:11:42.444 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.449 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.451 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.455 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.464 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 19.4638 ms
+2024-12-04 10:11:42.465 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 15.7276 ms
+2024-12-04 10:11:42.465 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.466 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 15.2128 ms
+2024-12-04 10:11:42.466 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.468 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.3009 ms
+2024-12-04 10:11:42.468 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.470 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:42.474 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 9.0919 ms
+2024-12-04 10:11:42.478 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.5395 ms
+2024-12-04 10:11:42.481 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 13.7674 ms
+2024-12-04 10:11:42.483 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.5636 ms
+2024-12-04 10:11:45.233 +07:00 [INF] HTTP OPTIONS /api/TaiSan/Update responded 204 in 0.0255 ms
+2024-12-04 10:11:45.237 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:45.242 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 4.3601 ms
+2024-12-04 10:11:45.256 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Update responded 204 in 0.0231 ms
+2024-12-04 10:11:45.260 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:45.275 +07:00 [INF] HTTP PUT /api/PhanBoTaiSan/Update responded 200 in 14.9803 ms
+2024-12-04 10:11:45.279 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:45.282 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 2.3768 ms
+2024-12-04 10:11:45.286 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:45.288 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 2.2790 ms
+2024-12-04 10:11:48.234 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:48.238 +07:00 [INF] HTTP PUT /api/TaiSan/Update responded 200 in 4.0452 ms
+2024-12-04 10:11:48.258 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:48.262 +07:00 [INF] HTTP PUT /api/PhanBoTaiSan/Update responded 200 in 4.9319 ms
+2024-12-04 10:11:48.266 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0233 ms
+2024-12-04 10:11:48.270 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:48.272 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 2.2772 ms
+2024-12-04 10:11:48.277 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0472 ms
+2024-12-04 10:11:48.280 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:48.283 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 2.7192 ms
+2024-12-04 10:11:51.397 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0222 ms
+2024-12-04 10:11:51.398 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0191 ms
+2024-12-04 10:11:51.398 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0191 ms
+2024-12-04 10:11:51.399 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0233 ms
+2024-12-04 10:11:51.399 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.399 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.402 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.404 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.410 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.2245 ms
+2024-12-04 10:11:51.411 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.2351 ms
+2024-12-04 10:11:51.411 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.412 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.413 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.8919 ms
+2024-12-04 10:11:51.414 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.2703 ms
+2024-12-04 10:11:51.414 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.416 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:11:51.419 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 7.7138 ms
+2024-12-04 10:11:51.421 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 8.5775 ms
+2024-12-04 10:11:51.427 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 12.5331 ms
+2024-12-04 10:11:51.428 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 12.3911 ms
+2024-12-04 10:12:00.049 +07:00 [INF] HTTP OPTIONS /api/BaoTri/Create responded 204 in 0.0240 ms
+2024-12-04 10:12:00.054 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:00.111 +07:00 [INF] HTTP POST /api/BaoTri/Create responded 201 in 57.5620 ms
+2024-12-04 10:12:00.119 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0571 ms
+2024-12-04 10:12:00.124 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:00.127 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 3.6529 ms
+2024-12-04 10:12:00.133 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Update responded 204 in 0.0211 ms
+2024-12-04 10:12:00.137 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:00.141 +07:00 [INF] HTTP PUT /api/PhanBoTaiSan/Update responded 200 in 4.4565 ms
+2024-12-04 10:12:00.160 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0403 ms
+2024-12-04 10:12:00.164 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:00.167 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 3.2981 ms
+2024-12-04 10:12:03.481 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0222 ms
+2024-12-04 10:12:03.481 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0088 ms
+2024-12-04 10:12:03.485 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:03.488 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.1217 ms
+2024-12-04 10:12:03.489 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:03.493 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.4608 ms
+2024-12-04 10:12:05.346 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0234 ms
+2024-12-04 10:12:05.347 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0177 ms
+2024-12-04 10:12:05.347 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0213 ms
+2024-12-04 10:12:05.347 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0150 ms
+2024-12-04 10:12:05.347 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0116 ms
+2024-12-04 10:12:05.347 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0168 ms
+2024-12-04 10:12:05.348 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.351 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.354 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.355 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.361 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 14.0593 ms
+2024-12-04 10:12:05.363 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.1124 ms
+2024-12-04 10:12:05.363 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.364 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.371 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 8.1664 ms
+2024-12-04 10:12:05.366 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.366 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 10.6623 ms
+2024-12-04 10:12:05.367 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:05.364 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.4355 ms
+2024-12-04 10:12:05.372 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 8.7360 ms
+2024-12-04 10:12:05.376 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 10.2453 ms
+2024-12-04 10:12:05.380 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 12.6396 ms
+2024-12-04 10:12:08.562 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Delete/53 responded 204 in 0.0262 ms
+2024-12-04 10:12:08.567 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:08.596 +07:00 [ERR] An exception occurred in the database while saving changes for context type 'Infrastructure.Data.QltsContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-12-04 10:12:08.620 +07:00 [ERR] HTTP DELETE /api/PhanBoTaiSan/Delete/53 responded 500 in 53.5684 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.PhanBoTaiSanRepository.DeleteAsync(Int32 maPhanBo) in D:\FileHoc\CongNgheWeb\Infrastructure\Repositories\PhanBoTaiSanRepository.cs:line 88
+   at ApplicationCore.Services.PhanBoTaiSanServices.DeletePhanBoTS(Int32 id) in D:\FileHoc\CongNgheWeb\ApplicationCore\Services\PhanBoTaiSanServices.cs:line 41
+   at WebAPI.Controllers.PhanBoTaiSanController.Delete(Int32 id) in D:\FileHoc\CongNgheWeb\WebAPI\Controllers\PhanBoTaiSanController.cs:line 72
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-04 10:12:08.676 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.PhanBoTaiSanRepository.DeleteAsync(Int32 maPhanBo) in D:\FileHoc\CongNgheWeb\Infrastructure\Repositories\PhanBoTaiSanRepository.cs:line 88
+   at ApplicationCore.Services.PhanBoTaiSanServices.DeletePhanBoTS(Int32 id) in D:\FileHoc\CongNgheWeb\ApplicationCore\Services\PhanBoTaiSanServices.cs:line 41
+   at WebAPI.Controllers.PhanBoTaiSanController.Delete(Int32 id) in D:\FileHoc\CongNgheWeb\WebAPI\Controllers\PhanBoTaiSanController.cs:line 72
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-04 10:12:16.465 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0218 ms
+2024-12-04 10:12:16.465 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0295 ms
+2024-12-04 10:12:16.469 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:16.472 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 2.9726 ms
+2024-12-04 10:12:16.473 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:16.476 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 3.4459 ms
+2024-12-04 10:12:17.154 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0205 ms
+2024-12-04 10:12:17.156 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0267 ms
+2024-12-04 10:12:17.157 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0263 ms
+2024-12-04 10:12:17.157 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0263 ms
+2024-12-04 10:12:17.157 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0266 ms
+2024-12-04 10:12:17.157 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0069 ms
+2024-12-04 10:12:17.158 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.159 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.162 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.168 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.173 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 15.4514 ms
+2024-12-04 10:12:17.174 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 15.7750 ms
+2024-12-04 10:12:17.175 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.176 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.176 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.7473 ms
+2024-12-04 10:12:17.178 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 9.6106 ms
+2024-12-04 10:12:17.178 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.180 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:17.184 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 9.1140 ms
+2024-12-04 10:12:17.186 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 9.6738 ms
+2024-12-04 10:12:17.192 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 13.5219 ms
+2024-12-04 10:12:17.193 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 12.7459 ms
+2024-12-04 10:12:28.411 +07:00 [INF] HTTP OPTIONS /api/BaoTri/Create responded 204 in 0.0247 ms
+2024-12-04 10:12:28.415 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:28.422 +07:00 [INF] HTTP POST /api/BaoTri/Create responded 201 in 6.8056 ms
+2024-12-04 10:12:28.436 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0200 ms
+2024-12-04 10:12:28.439 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:28.442 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 2.9796 ms
+2024-12-04 10:12:28.447 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Update responded 204 in 0.0230 ms
+2024-12-04 10:12:28.451 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:28.458 +07:00 [INF] HTTP PUT /api/PhanBoTaiSan/Update responded 200 in 7.4234 ms
+2024-12-04 10:12:28.471 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0257 ms
+2024-12-04 10:12:28.475 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:28.478 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 3.2604 ms
+2024-12-04 10:12:33.889 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0206 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0205 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0207 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0207 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0243 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0072 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0080 ms
+2024-12-04 10:12:33.890 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0065 ms
+2024-12-04 10:12:33.893 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.895 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.898 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.901 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.909 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 16.0305 ms
+2024-12-04 10:12:33.910 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.910 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 14.9315 ms
+2024-12-04 10:12:33.911 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.912 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 14.0378 ms
+2024-12-04 10:12:33.914 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 12.9322 ms
+2024-12-04 10:12:33.914 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.915 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:33.917 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 6.5913 ms
+2024-12-04 10:12:33.920 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 8.7247 ms
+2024-12-04 10:12:33.925 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.3788 ms
+2024-12-04 10:12:33.926 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.9412 ms
+2024-12-04 10:12:37.513 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/Delete/54 responded 204 in 0.0199 ms
+2024-12-04 10:12:37.517 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:37.524 +07:00 [ERR] An exception occurred in the database while saving changes for context type 'Infrastructure.Data.QltsContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-12-04 10:12:37.549 +07:00 [ERR] HTTP DELETE /api/PhanBoTaiSan/Delete/54 responded 500 in 31.8490 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.PhanBoTaiSanRepository.DeleteAsync(Int32 maPhanBo) in D:\FileHoc\CongNgheWeb\Infrastructure\Repositories\PhanBoTaiSanRepository.cs:line 88
+   at ApplicationCore.Services.PhanBoTaiSanServices.DeletePhanBoTS(Int32 id) in D:\FileHoc\CongNgheWeb\ApplicationCore\Services\PhanBoTaiSanServices.cs:line 41
+   at WebAPI.Controllers.PhanBoTaiSanController.Delete(Int32 id) in D:\FileHoc\CongNgheWeb\WebAPI\Controllers\PhanBoTaiSanController.cs:line 72
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-04 10:12:37.575 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_BaoTri_PhanBoTaiSan_MaPhanBo". The conflict occurred in database "QLTS", table "dbo.BaoTri", column 'MaPhanBo'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:c43fc1c8-16ee-40c7-bb04-d1b3911da5bb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.PhanBoTaiSanRepository.DeleteAsync(Int32 maPhanBo) in D:\FileHoc\CongNgheWeb\Infrastructure\Repositories\PhanBoTaiSanRepository.cs:line 88
+   at ApplicationCore.Services.PhanBoTaiSanServices.DeletePhanBoTS(Int32 id) in D:\FileHoc\CongNgheWeb\ApplicationCore\Services\PhanBoTaiSanServices.cs:line 41
+   at WebAPI.Controllers.PhanBoTaiSanController.Delete(Int32 id) in D:\FileHoc\CongNgheWeb\WebAPI\Controllers\PhanBoTaiSanController.cs:line 72
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-04 10:12:46.126 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0208 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/BaoTri/GetAll responded 204 in 0.0213 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0213 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0216 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0212 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/Phong/GetAll responded 204 in 0.0142 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/PhanBoTaiSan/GetAll responded 204 in 0.0137 ms
+2024-12-04 10:12:46.128 +07:00 [INF] HTTP OPTIONS /api/TaiSan/GetAll responded 204 in 0.0171 ms
+2024-12-04 10:12:46.131 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.135 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.137 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.139 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.146 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 14.8975 ms
+2024-12-04 10:12:46.147 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 11.8168 ms
+2024-12-04 10:12:46.147 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.148 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.148 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 10.4422 ms
+2024-12-04 10:12:46.149 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.149 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 10.5609 ms
+2024-12-04 10:12:46.151 +07:00 [INF] Token validated successfully for user null
+2024-12-04 10:12:46.154 +07:00 [INF] HTTP GET /api/BaoTri/GetAll responded 200 in 7.9691 ms
+2024-12-04 10:12:46.156 +07:00 [INF] HTTP GET /api/TaiSan/GetAll responded 200 in 8.5672 ms
+2024-12-04 10:12:46.159 +07:00 [INF] HTTP GET /api/PhanBoTaiSan/GetAll responded 200 in 10.6948 ms
+2024-12-04 10:12:46.162 +07:00 [INF] HTTP GET /api/Phong/GetAll responded 200 in 11.7019 ms
+2024-12-04 10:13:37.347 +07:00 [INF] HTTP OPTIONS /api/NguoiDung/Login responded 204 in 0.0229 ms
+2024-12-04 10:13:37.356 +07:00 [INF] HTTP POST /api/NguoiDung/Login responded 401 in 3.4112 ms
